@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"  lang="ru">
 <head>
-	<meta name="generator" content="Hugo 0.70.0" />
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title></title>
+<title>About me | Lorem</title>
 
-<meta property='og:title' content='Lorem'>
-<meta property='og:description' content=''>
-<meta property='og:url' content='https://ru.pichugin.dev/'>
+<meta property='og:title' content='About me - Lorem'>
+<meta property='og:description' content='About page'>
+<meta property='og:url' content='https://ru.pichugin.dev/about/'>
 <meta property='og:site_name' content='Lorem'>
-<meta property='og:type' content='website'><meta property='og:image' content='https://www.gravatar.com/avatar/1742e70ca8ec8715cd59ac8a69173d80?s=256'><meta property='article:section' content=''><meta property='og:updated_time' content='2014-09-28T00:00:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@'><meta name='twitter:creator' content='@'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/1742e70ca8ec8715cd59ac8a69173d80?s=256'><meta property='article:section' content=''><meta property='article:published_time' content='2014-04-09T00:00:00Z'/><meta property='article:modified_time' content='2014-04-09T00:00:00Z'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@'><meta name='twitter:creator' content='@'>
 
 
 <link href="https://ru.pichugin.dev/index.xml" rel="alternate" type="application/rss+xml" title="Lorem" />
@@ -20,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/npm/cdnstore/img/favicon.ico">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="canonical" href="https://ru.pichugin.dev/">
+<link rel="canonical" href="https://ru.pichugin.dev/about/">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="google-site-verification" content="uSLCLU9ciwXdj2E9K2hHZvF3Sd8yQXp4Eu_5VmJ08yA" />
@@ -100,63 +99,57 @@
 </section>
 <section class="section">
   <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      
+    </div>
+    <h2 class="subtitle is-6">April 9, 2014</h2>
+    <h1 class="title">About me</h1>
     
-    <article>
-      <div class="subtitle tags is-6 is-pulled-right">
-        
-      </div>
-      <h2 class="subtitle is-6 date">September 28, 2014</h2>
-      <h1 class="title"><a href="https://ru.pichugin.dev/post/creating-a-new-theme/">Creating a New Theme
+    <div class="content">
+      <p>About page</p>
 
-  
-    
-  
-</a></h1>
-      <div class="content">
-        
-        
-        <a class="button is-link" href="https://ru.pichugin.dev/post/creating-a-new-theme/" style="height:28px">
-          Read more
-        </a>
-        
-      </div>
-    </article>
-    
-    <article>
-      <div class="subtitle tags is-6 is-pulled-right">
-        
-      </div>
-      <h2 class="subtitle is-6 date">April 9, 2014</h2>
-      <h1 class="title"><a href="https://ru.pichugin.dev/about/">About me
-
-  
-    
-  
-</a></h1>
-      <div class="content">
-        About page
-        
-      </div>
-    </article>
+      
+      <div class="related">
+</div>
+      
+    </div>
     
   </div>
 </section>
+
+
 <section class="section">
   <div class="container">
-    <nav class="level is-mobile">
-      <div class="level-left">
-        <div class="level-item">
-          
-        </div>
-      </div>
-      <div class="level-right is-marginless">
-        <div class="level-item">
-          
-        </div>
-      </div>
-    </nav>
+    <aside><div id="disqus_thread"></div></aside>
+  
+    <div id="show_comments"><a id="load_comments" class="button is-link">Load comments</a></div>
+  
+    <script type="text/javascript">
+      var disqus_shortname = 'shortname';
+      function disqus() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      }
+  
+      
+      var hash = window.location.hash.substr(1);
+      if ((hash.length > 8) && (hash.substring(0, 8) === "comment-")) {
+        disqus();
+        document.getElementById("show_comments").style.display = "none";
+      } else {
+        document.getElementById('load_comments').onclick = function() {
+          disqus();
+          document.getElementById("show_comments").style.display = "none";
+        };
+      }
+  
+
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   </div>
 </section>
+
 
 <section class="section">
   <div class="container has-text-centered">
@@ -195,3 +188,4 @@
 </script>
 </body>
 </html>
+

@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://dmitrypich.github.io/
+sitemap: https://dmitrypich.github.io/sitemap.xml
