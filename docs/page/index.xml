@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software engineer notes</title>
-    <link>https://ru.pichugin.dev/</link>
-    <description>Recent content on Software engineer notes</description>
+    <title>Pages on Software engineer notes</title>
+    <link>https://ru.pichugin.dev/page/</link>
+    <description>Recent content in Pages on Software engineer notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://ru.pichugin.dev/page/about&#34;&gt;dmpichugin&lt;/a&gt; 2020-2021</copyright>
-    <lastBuildDate>Thu, 24 Dec 1992 00:00:00 +0000</lastBuildDate><atom:link href="https://ru.pichugin.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 1992 00:00:00 +0000</lastBuildDate><atom:link href="https://ru.pichugin.dev/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://ru.pichugin.dev/page/about/</link>

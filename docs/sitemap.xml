@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ru.pichugin.dev/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ru.pichugin.dev/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ru.pichugin.dev/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://ru.pichugin.dev/page/about/</loc>
+    <lastmod>1992-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ru.pichugin.dev/page/</loc>
+    <lastmod>1992-12-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ru.pichugin.dev/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>1992-12-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ru.pichugin.dev/tags/</loc>
   </url>
-  
 </urlset>
